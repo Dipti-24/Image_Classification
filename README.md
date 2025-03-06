@@ -31,7 +31,6 @@ The model is evaluated using accuracy and loss metrics
 ## Technologies Used
 1. Python
 2. TensorFlow / Keras
-3. OpenCV
 4. NumPy & Pandas
 5. Matplotlib
 
